@@ -8,4 +8,4 @@ spring:
 #      username:
 #      password:
   profiles:
-    active: DEV
+    active: DEFAULT
