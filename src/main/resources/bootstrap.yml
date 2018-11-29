@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: ConfigClientDemo
+  cloud:
+    config:
+      token: 1Iu0KpuKamBhUWEZRl9VzqlW
+      uri: http://127.0.0.1:8080
+#      username:
+#      password:
+  profiles:
+    active: DEV
